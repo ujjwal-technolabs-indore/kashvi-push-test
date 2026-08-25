@@ -1,3 +1,16 @@
-# Built with Kashvi
+# App
 
-This repository is written by https://kashvi.dev
+Built with Kashvi — a native-first AI app builder.
+
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
